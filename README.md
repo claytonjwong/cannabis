@@ -30,6 +30,18 @@
 4. [History of Products and Formulations](docs/1_course_2_week_4_lecture.pdf)
 5. [Business Models - Are Marijuana Companies Rolling in Cash?](docs/1_course_2_week_5_lecture.pdf)
 
+### Week 3: Research Barriers, Veracity, and Validity + Placebo Effects
+#### Resources
+* [Treating Depression: Is there a placebo effect?](https://www.youtube.com/watch?v=Zihdr36WVi4)
+* [What doctors don't know about the drugs they prescribe](https://www.youtube.com/watch?v=RKmxL8VYy0M)
+
+#### Lectures
+1. [Barriers to Research](docs/1_course_3_week_1_lecture.pdf)
+2. [End Result of Barriers to Research](docs/1_course_3_week_2_lecture.pdf)
+3. [How to Evaluate Evidence](docs/1_course_3_week_3_lecture.pdf)
+4. [Internal and External Validity](docs/1_course_3_week_4_lecture.pdf)
+5. [Placebo Effect](docs/1_course_3_week_5_lecture.pdf)
+
 ## Course 2: Cannabis, Chronic Pain, and Related Disorders
 ## Course 3: Cannabis, Mental Health, and Brain Disorders
 ## Course 4: Healthy Aging and the Future of Cannabis Research
