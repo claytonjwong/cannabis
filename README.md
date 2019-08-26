@@ -42,6 +42,20 @@
 4. [Internal and External Validity](docs/1_course_3_week_4_lecture.pdf)
 5. [Placebo Effect](docs/1_course_3_week_5_lecture.pdf)
 
+### Week 4: Cannabis and the Brain
+#### Resources
+* [Dr. Carl Hart Debates Bill O'Reilly](https://www.youtube.com/watch?v=BH9L9aHZmG4&feature=youtu.be)
+* [Practical Cannabis (Russo)](docs/russo_practical_cannais.pdf)
+* [Safety of MS patients using Sativex® (THC:CBD,nabiximols) Oromucosal Spray](docs/sativex.pdf)
+
+#### Lectures
+1. [Cannabis and the Brain (part 1)](docs/1_course_4_week_1_lecture.pdf)
+2. [Cannabis and the Brain (part 2)](docs/1_course_4_week_2_lecture.pdf)
+3. [Impart of Legalization on Epidemiology](docs/1_course_4_week_3_lecture.pdf)
+4. [Changes in Potency](docs/1_course_4_week_4_lecture.pdf)
+5. [Public Health Data](docs/1_course_4_week_5_lecture.pdf)
+
+
 ## Course 2: Cannabis, Chronic Pain, and Related Disorders
 ## Course 3: Cannabis, Mental Health, and Brain Disorders
 ## Course 4: Healthy Aging and the Future of Cannabis Research
