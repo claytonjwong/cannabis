@@ -3,6 +3,7 @@
 
 ## Infographics
 * [Assignment 1](docs/1_assignment_infographic.pdf)
+* [Assignment 2](docs/2_assignment_infographic.pdf)
 
 ## Course 1: History of Medical Cannabis
 ### Week 1: Cannabis and Health
