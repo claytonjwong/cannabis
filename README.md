@@ -1,6 +1,9 @@
 # Medical Cannabis: The Health Effects of THC and CBD
 [University of Colorado Boulder](https://www.colorado.edu/)
 
+## Infographics
+* [Assignment 1](docs/1_assignment_infographic.pdf)
+
 ## Course 1: History of Medical Cannabis
 ### Week 1: Cannabis and Health
 #### Resources
@@ -148,4 +151,51 @@
 4. [Is Cannabis Effective in Treatment of Cancer Symptoms?](docs/2_course_4_week_4_lecture.pdf)
 
 ## Course 3: Cannabis, Mental Health, and Brain Disorders
+### Week 1: Chronic Pain and Cannabis
+#### Resources
+* [Chronic Pain](https://nccih.nih.gov/health/pain/chronic.htm)
+* [The Health Effects of Cannabis and Cannabinoids (ie. "NAS Report")](https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state)
+    * Chronic Pain (pg. 87)
+    * Cancer (pg. 90)
+
+#### Lectures
+* [What is Chronic Pain?](docs/3_course_1_week_1_lecture.pdf)
+* [Epidemiology of Chronic Pain](docs/3_course_1_week_2_lecture.pdf)
+* [Etiology of Chronic Pain](docs/3_course_1_week_3_lecture.pdf)
+* [Current Treatments for Chronic Pain](docs/3_course_1_week_4_lecture.pdf)
+* [Cannabis and Chronic Pain](docs/3_course_1_week_5_lecture.pdf)
+
+### Week 2: Opioid Epidemic and Cannabis
+#### Resources
+* [Can CBD Treat Opioid Addiction?](https://www.consumerreports.org/cbd/can-cbd-treat-opioid-addiction/)
+* [What is the U.S. Opioid Epidemic?](https://www.hhs.gov/opioids/about-the-epidemic/index.html)
+    * In the late 1990s, pharmaceutical companies reassured the medical community that patients would not become addicted to opioid pain relievers and healthcare providers began to prescribe them at greater rates.
+    * Increased prescription of opioid medications led to widespread misuse of both prescription and non-prescription opioids before it became clear that these medications could indeed be highly addictive.
+    * In 2017 HHS declared a [public health emergency](https://www.hhs.gov/about/news/2017/10/26/hhs-acting-secretary-declares-public-health-emergency-address-national-opioid-crisis.html) and announced a [5-Point Strategy To Combat the Opioid Crisis](https://www.hhs.gov/about/leadership/secretary/speeches/2017-speeches/secretary-price-announces-hhs-strategy-for-fighting-opioid-crisis/index.html)
+* [Opioid Abuse Review](docs/opioid_abuse_review.pdf)
+* [The Health Effects of Cannabis and Cannabinoids (ie. "NAS Report")](https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state)
+    * Addication (pg. 116)
+    * Anxiety (pg. 118)
+
+#### Lectures
+* [What is Opioid Use Disorder](docs/3_course_2_week_1_lecture.pdf)
+* [Epidemiology of Opioid Use Disorder](docs/3_course_2_week_2_lecture.pdf)
+* [Etiology of Opioid Use Disorder](docs/3_course_2_week_3_lecture.pdf)
+* [Traditional Treatments for Opioid Use Disorder](docs/3_course_2_week_4_lecture.pdf)
+* [Cannabis and Opioid Use Disorder](docs/3_course_2_week_5_lecture.pdf)
+
+### Week 3: Obesity/Type 2 Diabetes, Sleep, and Cannabis
+#### Resources
+* [Adult Obesity Causes & Consequences](https://www.cdc.gov/obesity/adult/causes.html)
+* [What is Sleep? Why is it needed?](https://www.sleepassociation.org/about-sleep/what-is-sleep/)
+* [Insomnia](https://www.nhlbi.nih.gov/health-topics/insomnia)
+
+#### Lectures
+* [Definition and Epidemiology of Obesity and Type II Diabetes](docs/3_course_3_week_1_lecture.pdf)
+* [Current Treatments for Obesity and Type II Diabetes](docs/3_course_3_week_2_lecture.pdf)
+* [Cannabis, Obesity, and Type II Diabetes](docs/3_course_3_week_3_lecture.pdf)
+* [Sleep and Sleep Disorders](docs/3_course_3_week_4_lecture.pdf)
+* [Etiology and Current Treatments for Sleep Disorders](docs/3_course_3_week_5_lecture.pdf)
+* [Cannabis and Sleep](docs/3_course_3_week_6_lecture.pdf)
+
 ## Course 4: Healthy Aging and the Future of Cannabis Research
