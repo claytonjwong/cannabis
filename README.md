@@ -5,6 +5,7 @@
 * [Assignment 1: Cannabis Smoking: Immune Sytem and Respiratory System Effects](docs/1_assignment_infographic.pdf)
 * [Assignment 2: Chronic Pain](docs/2_assignment_infographic.pdf)
 * [Assignment 3: Depression](docs/3_assignment_infographic.pdf)
+* [Assignment 4: Oldest Old Seniors](docs/4_assignment_infographic.pdf)
 
 ## Course 1: History of Medical Cannabis
 ### Week 1: Cannabis and Health
@@ -268,9 +269,9 @@
 * [The Rise in Marijuana Use Amoung Seniors]( https://www.youtube.com/watch?v=VneCaYJUHNE)
 
 #### Lectures
-* [Healthy Aging](4_course_3_week_1_lecture.pdf)
-* [Cannabis and Aging](4_course_3_week_2_lecture.pdf)
-* [The Bigger Picture](4_course_3_week_3_lecture.pdf)
+* [Healthy Aging](docs/4_course_3_week_1_lecture.pdf)
+* [Cannabis and Aging](docs/4_course_3_week_2_lecture.pdf)
+* [The Bigger Picture](docs/4_course_3_week_3_lecture.pdf)
 
 ### Week 4: Summary and Next Steps
 #### Lectures
