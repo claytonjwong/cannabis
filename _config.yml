@@ -1,2 +1,3 @@
 theme: jekyll-theme-midnight
-show downloads: true
+show_downloads: true
+
