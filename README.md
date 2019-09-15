@@ -2,8 +2,9 @@
 [University of Colorado Boulder](https://www.colorado.edu/)
 
 ## Infographics
-* [Assignment 1](docs/1_assignment_infographic.pdf)
-* [Assignment 2](docs/2_assignment_infographic.pdf)
+* [Assignment 1: Cannabis Smoking: Immune Sytem and Respiratory System Effects](docs/1_assignment_infographic.pdf)
+* [Assignment 2: Chronic Pain](docs/2_assignment_infographic.pdf)
+* [Assignment 3: Depression](docs/3_assignment_infographic.pdf)
 
 ## Course 1: History of Medical Cannabis
 ### Week 1: Cannabis and Health
@@ -223,3 +224,56 @@
 * [Treatments for Multiple Sclerosis, Epilepsy, Traumatic Brain Injury](docs/3_course_3_week_4_lecture.pdf)
 * [Cannabis and MS and Epilepsy](docs/3_course_3_week_5_lecture.pdf)
 * [Cannabis and Traumatic Brain Injury](docs/3_course_3_week_6_lecture.pdf)
+
+### Week 4: Neurocongnitive/Brain Disorders Part II
+#### Resources
+* [Alzheimer's Disease](https://www.ninds.nih.gov/Disorders/All-Disorders/Alzheimers-Disease-Information-Page)
+* [Parkinson's Disease](https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page)
+
+#### Lectures
+* [Parkinson's Disease and Alzheimer's Disease](docs/3_course_4_week_1_lecture.pdf)
+* [Epidemiology of Parkinson's Disease and Alzheimer's Disease](docs/3_course_4_week_2_lecture.pdf)
+* [Etiology of Parkinson's Disease and Alzheimer's Disease](docs/3_course_4_week_3_lecture.pdf)
+* [Current Treatments for Parkinson's Disease and Alzheimer's Disease](docs/3_course_4_week_4_lecture.pdf)
+* [Cannabis and the Treatment of Parkinson's Disease and Alzheimer's Disease](docs/3_course_4_week_5_lecture.pdf)
+* [Recent Research on Cannabinoids, Parkinson's Disease, and Alzheimer's Disease](docs/3_course_4_week_6_lecture.pdf)
+
+## Course 4: 
+### Week 1: Inflammation and the Microbiome
+#### Resources
+* [Microbes and Minds](docs/Microbes_and_Minds_2018.pdf)
+    * In recent years, an extensive body of literature focused on the gut–brain axis and the possible role played by the gut microbiota in modulating brain morphology and function from birth to old age. Gut microbiota has been proposed as a relevant player during the early phases of neurodevelopment, with possible long-standing effects in later life. The reduction in gut microbiota diversity has also become one of the hallmarks of aging, and disturbances in its composition are associated with several (age-related) neurological conditions, including depression, Alzheimer’s disease, and Parkinson’s disease. Several pathways have been evoked for gut microbiota–brain communication, including neural connections (vagus nerve), circulating mediators derived by host-bacteria cometabolism, as well as the influence exerted by gut microbiota on host gut function, metabolism, and immune system. Although the most provoking data emerged from animal studies and despite the huge debate around the possible epiphenomenal nature of those findings, the gut microbiota–brain axis still remains a fascinating target to be exploited to attenuate some of the most burdensome consequences of aging.
+* [Chronic Inflammation & Age-Associated Diseases](docs/Chronic_Inflammation.pdf)
+    * Human aging is characterized by a chronic, low-grade inflammation, and this phenomenon has been termed as “inflammaging.” Inflammaging is a highly significant risk factor for both morbidity and mortality in the elderly people, as most if not all age-related diseases share an inflammatory pathogenesis. Nevertheless, the precise etiology of inflammaging and its potential causal role in contributing to adverse health outcomes remain largely unknown. The identification of pathways that control age-related inflammation across multiple systems is therefore important in order to understand whether treatments that modulate inflammaging may be beneficial in old people. The session on inflammation of the Advances in Gerosciences meeting held at the National Institutes of Health/National Institute on Aging in Bethesda on October 30 and 31, 2013 was aimed at defining these important unanswered questions about inflammaging. This article reports the main outcomes of this session.
+
+#### Lectures
+* [Overview of Inflammation and the Microbiota Gut Brain Axis](docs/4_course_1_week_1_lecture.pdf)
+* [Chronic Inflammation and Disease States](docs/4_course_1_week_2_lecture.pdf)
+* [Cannabinoids and Inflammation](docs/4_course_1_week_3_lecture.pdf)
+* [Cannabis and Inflammatory Disease States](docs/4_course_1_week_4_lecture.pdf)
+
+### Week 2: Sports, Exercise, and Recovery
+#### Resources
+* [Cannabis and the NFL](https://www.youtube.com/watch?v=B-pKLFNHf7I)
+
+#### Lectures
+* [Endocannabinoids and Exercise](docs/4_course_2_week_1_lecture.pdf)
+* [Effects of Cannabis on Performance](docs/4_course_2_week_2_lecture.pdf)
+* [Effect of Cannabinoids on Recovery](docs/4_course_2_week_3_lecture.pdf)
+* [Cannabis and Professional Sports](docs/4_course_2_week_4_lecture.pdf)
+
+### Week 3: Cannabis and Aging
+#### Resources
+* [Seniors Given Primer on Cannabis Use](https://www.youtube.com/watch?v=BNldBNL_SNM)
+* [The Rise in Marijuana Use Amoung Seniors]( https://www.youtube.com/watch?v=VneCaYJUHNE)
+
+#### Lectures
+* [Healthy Aging](4_course_3_week_1_lecture.pdf)
+* [Cannabis and Aging](4_course_3_week_2_lecture.pdf)
+* [The Bigger Picture](4_course_3_week_3_lecture.pdf)
+
+### Week 4: Summary and Next Steps
+#### Lectures
+* [What Have We Learned?](docs/4_course_4_week_1_lecture.pdf)
+* [Should Cannabis Be Viewed as "Medicine"?](docs/4_course_4_week_2_lecture.pdf)
+* [Where Do We Go from Here?](docs/4_course_4_week_3_lecture.pdf)
