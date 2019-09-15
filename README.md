@@ -1,5 +1,6 @@
 # Medical Cannabis: The Health Effects of THC and CBD
 [University of Colorado Boulder](https://www.colorado.edu/)
+* [Cannabis Research Initiative for Citizen Scientists (CRICS)](https://www.colorado.edu/initiative/crics/kent-hutchison)
 
 ## Infographics
 * [Assignment 1: Cannabis Smoking: Immune Sytem and Respiratory System Effects](docs/1_assignment_infographic.pdf)
